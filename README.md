@@ -8,7 +8,7 @@
       '--`
 ```
 
-cheesethesylv/chddr 25 / any / mentally healed for now
+cheesethesylv/chddr 25 / any / internet cat
 
 <!---
 cheesethesylveon/cheesethesylveon is a ✨ shit ✨ repository because its this file appears on your GitHub profile.
